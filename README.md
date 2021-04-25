@@ -1,4 +1,4 @@
-# API request ile oluşturulmuş radar chart üzerinde messi ve ronaldonun tane futbolcunun karşılaştırması / Comparison of Messi and Ronaldo on the radar chart created with API request
+# API isteği ile oluşturulan radar grafiğinde Messi ve Ronaldo'nun karşılaştırılması / Comparison of Messi and Ronaldo on the radar chart created with API request
 
 İki tane futbolcunun karşılaştırmasını Radar chart üzerinde gösterdim. Futbolcular olarak ise Messi ve Ronaldo oyuncularının özelliklerini seçtim. Öncelikle kullanmış olduğum 
 API adresi:</br>
