@@ -17,6 +17,9 @@ twice in my "talent_repare ()" function with the symbol "#" as an explanation li
 * Anaconda Navigator
 
 ## Radar Chart Karşılaştırması Sonucu / Radar Chart Comparison Result
-![image](https://github.com/huseyincatalbas/API-request-comparison-of-Messi-and-Ronaldo/blob/master/images/output.PNG)
+<p align="center">
+  <img src="https://github.com/huseyincatalbas/API-request-comparison-of-Messi-and-Ronaldo/blob/master/images/output.PNG">
+</p>
+
 * Ronaldo=Gri
 * Messi=Koyu Mavi
